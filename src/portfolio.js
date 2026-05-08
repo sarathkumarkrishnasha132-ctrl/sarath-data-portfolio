@@ -21,7 +21,7 @@ const greeting = {
   username: "SarathKumar Krishna Sha",
   title: "Hi, I'm Sarath",
   subTitle: emoji(
-    "Business Data Analyst skilled in SQL, Python, Power BI, process automation, reporting, and business intelligence 📈 Passionate about transforming data into actionable insights that drive operational efficiency and business growth."
+    "Business Data Analyst skilled in SQL, Python, Data Visualization, Process improvement and automation, KPI reporting, and business intelligence 📈 Passionate about transforming data into actionable insights that drive operational efficiency and business growth."
   ),
   displayGreeting: true
 };
