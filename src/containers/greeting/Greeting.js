@@ -3,7 +3,7 @@ import {Fade} from "react-reveal";
 import emoji from "react-easy-emoji";
 import "./Greeting.scss";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import {illustration, greeting} from "../../portfolio";
+import {greeting} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
 
 export default function Greeting() {
