@@ -1,0 +1,29 @@
+@import "../_globalColor";
+
+.dark-mode {
+  background-color: $darkBackground;
+  color: white;
+  transition: "0.1s";
+}
+
+.combined-skills-section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 40px;
+  width: 96%;
+  margin: 0 auto;
+}
+
+/* Proficiency */
+.combined-skills-section > :first-child {
+  flex: 0 0 52%;
+  margin-left: 20px;
+}
+
+/* What I do */
+.combined-skills-section > :last-child {
+  flex: 0 0 30%;
+  margin-top: 35px;
+  margin-right: 20px;
+}
